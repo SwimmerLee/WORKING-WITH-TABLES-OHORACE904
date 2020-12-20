@@ -1,2 +1,5 @@
 //
-//  AppDelega
+//  AppDelegate.swift
+//  StockRank
+//
+/

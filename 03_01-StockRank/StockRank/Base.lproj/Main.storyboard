@@ -78,3 +78,32 @@
                                             <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                             <constraints>
                                                 <constraint firstItem="CcJ-mF-4r7" firstAttribute="centerY" secondItem="kAJ-0Y-QXL" secondAttribute="centerY" id="0aV-PO-1yW"/>
+                                                <constraint firstItem="lTz-Sq-5Ta" firstAttribute="centerY" secondItem="XYq-cE-VEI" secondAttribute="centerY" id="66D-ZS-DBo"/>
+                                                <constraint firstItem="kAJ-0Y-QXL" firstAttribute="top" secondItem="qW8-8x-eeO" secondAttribute="bottom" constant="6.5" id="6M8-Wq-mlk"/>
+                                                <constraint firstItem="lTz-Sq-5Ta" firstAttribute="leading" secondItem="XYq-cE-VEI" secondAttribute="leading" constant="16" id="UQ8-87-MXw"/>
+                                                <constraint firstItem="qW8-8x-eeO" firstAttribute="top" secondItem="gQP-ey-LTu" secondAttribute="top" id="Vtg-wJ-xwL"/>
+                                                <constraint firstAttribute="trailing" secondItem="U0J-iB-Ig3" secondAttribute="trailing" constant="20" id="ZyE-je-h9f"/>
+                                                <constraint firstItem="CcJ-mF-4r7" firstAttribute="leading" secondItem="kAJ-0Y-QXL" secondAttribute="trailing" constant="5" id="bSf-oK-NYQ"/>
+                                                <constraint firstItem="kAJ-0Y-QXL" firstAttribute="leading" secondItem="qW8-8x-eeO" secondAttribute="leading" id="eG2-6B-c9A"/>
+                                                <constraint firstItem="U0J-iB-Ig3" firstAttribute="centerY" secondItem="XYq-cE-VEI" secondAttribute="centerY" id="hBL-ZO-1hg"/>
+                                                <constraint firstItem="gQP-ey-LTu" firstAttribute="centerY" secondItem="XYq-cE-VEI" secondAttribute="centerY" id="nvd-aq-gPv"/>
+                                                <constraint firstItem="gQP-ey-LTu" firstAttribute="leading" secondItem="XYq-cE-VEI" secondAttribute="leading" constant="50" id="v3b-dp-QQS"/>
+                                                <constraint firstItem="qW8-8x-eeO" firstAttribute="leading" secondItem="gQP-ey-LTu" secondAttribute="trailing" constant="20" id="voy-c9-WGX"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <size key="customSize" width="414" height="128"/>
+                                        <connections>
+                                            <outlet property="companyIconImageView" destination="gQP-ey-LTu" id="FUr-tz-xIf"/>
+                                            <outlet property="companyNameLabel" destination="qW8-8x-eeO" id="ud4-vE-Av7"/>
+                                            <outlet property="companyPriceLabel" destination="kAJ-0Y-QXL" id="IQ3-eJ-FQY"/>
+                                            <outlet property="diffLabel" destination="CcJ-mF-4r7" id="OJ8-5i-Au7"/>
+                                            <outlet property="rankLabel" destination="lTz-Sq-5Ta" id="R0v-LI-RnY"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="VMA-ve-a2I"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="VMA-ve-a2I" firstAttribute="top" secondItem="MhX-6e-bwN" secondAttribute="top" constant="8" id="3Jg-5u-LWE"/>

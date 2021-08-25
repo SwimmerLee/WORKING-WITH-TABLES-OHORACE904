@@ -107,3 +107,27 @@
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="VMA-ve-a2I" firstAttribute="top" secondItem="MhX-6e-bwN" secondAttribute="top" constant="8" id="3Jg-5u-LWE"/>
+                            <constraint firstItem="VMA-ve-a2I" firstAttribute="trailing" secondItem="MhX-6e-bwN" secondAttribute="trailing" id="TDE-Jg-vC4"/>
+                            <constraint firstItem="VMA-ve-a2I" firstAttribute="bottom" secondItem="MhX-6e-bwN" secondAttribute="bottom" id="rBT-zd-Dfq"/>
+                            <constraint firstItem="MhX-6e-bwN" firstAttribute="leading" secondItem="VMA-ve-a2I" secondAttribute="leading" id="wPh-kP-odV"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="collectionView" destination="MhX-6e-bwN" id="ZQK-Th-Tby"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6GE-h5-51z" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="36.231884057971016" y="21.428571428571427"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="heart.fill" catalog="system" width="128" height="109"/>
+        <systemColor name="systemBlueColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

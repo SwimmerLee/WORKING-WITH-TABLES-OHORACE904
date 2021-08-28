@@ -1,2 +1,5 @@
 //
 //  SceneDelegate.swift
+//  StockRank
+//
+//

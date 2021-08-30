@@ -2,4 +2,4 @@
 //  SceneDelegate.swift
 //  StockRank
 //
-//  Created by j
+//  Created by joonwon lee on 2022/04/

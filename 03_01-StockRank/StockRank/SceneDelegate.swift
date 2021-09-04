@@ -7,4 +7,4 @@
 
 import UIKit
 
-class SceneDelegat
+class SceneDelegate: UIResponder, UIW

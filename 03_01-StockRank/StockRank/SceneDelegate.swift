@@ -12,4 +12,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
 
 
-    func s
+    func scene(_ scene: UIScene, w

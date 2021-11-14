@@ -19,4 +19,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let _ = (scene as? UIWindowScene) else { return }
     }
 
-    func sceneDidDisc
+    func sceneDidDisconnect(_ scene: UIScene) 

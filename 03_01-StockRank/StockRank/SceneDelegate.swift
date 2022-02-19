@@ -42,4 +42,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneDidEnterBackground(_ scene: UIScene) {
-        // Called as the sc
+        // Called as the scene transitions from the f

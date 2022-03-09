@@ -1,2 +1,3 @@
 //
-/
+//  StockModel.swift
+// 

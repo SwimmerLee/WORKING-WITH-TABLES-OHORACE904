@@ -1,3 +1,5 @@
 //
 //  StockModel.swift
-// 
+//  StockRank
+//
+//  Cre

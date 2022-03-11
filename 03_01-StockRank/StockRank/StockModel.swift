@@ -2,4 +2,4 @@
 //  StockModel.swift
 //  StockRank
 //
-//  Cre
+//  Created by joonwon lee o

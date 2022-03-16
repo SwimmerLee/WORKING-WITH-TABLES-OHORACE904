@@ -7,4 +7,5 @@
 
 import Foundation
 
-struct StockM
+struct StockModel {
+    let ra

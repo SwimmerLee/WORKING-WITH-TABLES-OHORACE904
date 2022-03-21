@@ -8,4 +8,5 @@
 import Foundation
 
 struct StockModel {
-    let ra
+    let rank: Int
+    let imageName:

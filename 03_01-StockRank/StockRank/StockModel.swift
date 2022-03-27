@@ -11,4 +11,5 @@ struct StockModel {
     let rank: Int
     let imageName: String
     let name: String
-    let price
+    let price: Int
+    let dif

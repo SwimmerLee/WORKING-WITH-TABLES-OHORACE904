@@ -10,4 +10,5 @@ import Foundation
 struct StockModel {
     let rank: Int
     let imageName: String
-    let name: 
+    let name: String
+    let price

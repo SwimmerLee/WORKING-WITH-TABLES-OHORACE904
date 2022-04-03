@@ -16,4 +16,4 @@ struct StockModel {
 }
 
 extension StockModel {
- 
+    static let lis

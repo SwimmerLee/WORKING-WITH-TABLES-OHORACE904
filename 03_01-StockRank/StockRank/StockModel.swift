@@ -12,4 +12,7 @@ struct StockModel {
     let imageName: String
     let name: String
     let price: Int
-    let dif
+    let diff: Double
+}
+
+extens

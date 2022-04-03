@@ -15,4 +15,5 @@ struct StockModel {
     let diff: Double
 }
 
-extens
+extension StockModel {
+ 

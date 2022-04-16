@@ -17,4 +17,4 @@ struct StockModel {
 
 extension StockModel {
     static let list: [StockModel] = [
-        StockModel(rank: 1, imageName: "TSLA", name:
+        StockModel(rank: 1, imageName: "TSLA", name: "테슬라", price: 1_238_

@@ -1,2 +1,3 @@
 //
-//  StockRankCollectionViewCe
+//  StockRankCollectionViewCell.swift
+//  Sto

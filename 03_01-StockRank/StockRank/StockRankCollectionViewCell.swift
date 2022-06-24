@@ -1,2 +1,2 @@
 //
-//  StockRankCol
+//  StockRankCollectionViewCe

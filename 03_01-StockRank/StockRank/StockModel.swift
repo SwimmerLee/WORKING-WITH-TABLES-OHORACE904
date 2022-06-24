@@ -30,4 +30,6 @@ extension StockModel {
         StockModel(rank: 11, imageName: "GOOG", name: "알파벳 A", price: 3_176_631, diff: 0.04),
         StockModel(rank: 12, imageName: "AMZN", name: "아마존", price: 3_538_631, diff: 0.04),
         StockModel(rank: 13, imageName: "NIKE", name: "나이키", price: 158_631, diff: 0.04),
-        StockModel(rank: 14, imageName: "DIS", name: "디즈니", price: 138_631, diff: 
+        StockModel(rank: 14, imageName: "DIS", name: "디즈니", price: 138_631, diff: 0.04),
+    ]
+}

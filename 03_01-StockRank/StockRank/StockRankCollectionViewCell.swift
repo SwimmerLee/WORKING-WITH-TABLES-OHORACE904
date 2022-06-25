@@ -1,3 +1,5 @@
 //
 //  StockRankCollectionViewCell.swift
-//  Sto
+//  StockRank
+//
+//  Create

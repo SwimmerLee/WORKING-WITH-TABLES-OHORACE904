@@ -2,4 +2,4 @@
 //  StockRankCollectionViewCell.swift
 //  StockRank
 //
-//  Create
+//  Created by HYERYEONG on

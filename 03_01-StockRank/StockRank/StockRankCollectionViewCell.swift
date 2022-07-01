@@ -5,4 +5,6 @@
 //  Created by HYERYEONG on 2022/08/17.
 //
 
-//collect
+//collectionView를 표현해주기위함
+
+im

@@ -7,4 +7,6 @@
 
 //collectionView를 표현해주기위함
 
-im
+import UIKit
+
+class StockRankCollecti

@@ -9,4 +9,4 @@
 
 import UIKit
 
-class StockRankCollecti
+class StockRankCollectionViewCell: UICollection

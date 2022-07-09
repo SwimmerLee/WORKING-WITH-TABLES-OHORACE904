@@ -9,4 +9,6 @@
 
 import UIKit
 
-class StockRankCollectionViewCell: UICollection
+class StockRankCollectionViewCell: UICollectionViewCell {
+    
+    //

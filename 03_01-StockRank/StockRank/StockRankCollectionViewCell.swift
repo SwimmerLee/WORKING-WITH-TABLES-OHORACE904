@@ -11,4 +11,5 @@ import UIKit
 
 class StockRankCollectionViewCell: UICollectionViewCell {
     
-    //
+    // uicomponent를 연결하자
+    // 

@@ -12,4 +12,4 @@ import UIKit
 class StockRankCollectionViewCell: UICollectionViewCell {
     
     // uicomponent를 연결하자
-    // 
+    // uicomponent 에 데이

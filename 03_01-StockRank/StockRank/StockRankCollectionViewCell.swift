@@ -12,4 +12,5 @@ import UIKit
 class StockRankCollectionViewCell: UICollectionViewCell {
     
     // uicomponent를 연결하자
-    // uicomponent 에 데이
+    // uicomponent 에 데이터를 업데이트 하는 코드를 넣자
+  

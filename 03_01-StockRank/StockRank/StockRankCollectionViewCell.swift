@@ -17,4 +17,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     //contentview에 있는 것 연결
     @IBOutlet weak var rankLabel: UILabel!
     
-  
+    @IBOutlet weak var co

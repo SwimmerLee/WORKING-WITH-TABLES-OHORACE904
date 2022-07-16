@@ -15,4 +15,6 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     // uicomponent 에 데이터를 업데이트 하는 코드를 넣자
     
     //contentview에 있는 것 연결
-    @IBOutlet weak var rankLabel
+    @IBOutlet weak var rankLabel: UILabel!
+    
+  

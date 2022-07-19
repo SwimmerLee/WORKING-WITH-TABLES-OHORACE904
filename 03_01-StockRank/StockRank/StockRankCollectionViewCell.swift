@@ -18,3 +18,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var rankLabel: UILabel!
     
     @IBOutlet weak var companyIconImageView: UIImageView!
+    
+    @IBO

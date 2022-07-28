@@ -19,4 +19,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var companyIconImageView: UIImageView!
     
-    @IBO
+    @IBOutlet weak var 

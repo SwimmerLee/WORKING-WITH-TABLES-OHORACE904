@@ -23,4 +23,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var companyPriceLabel: UILabel!
     
-    @
+    @IBOutlet weak var dif

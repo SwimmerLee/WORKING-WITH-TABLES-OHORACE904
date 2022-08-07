@@ -25,3 +25,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var diffLabel: UILabel!
     
+    //데이터를 업데이트하는 매

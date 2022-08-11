@@ -28,4 +28,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     //데이터를 업데이트하는 매소드
     func configure(_ stock: StockModel) {
         rankLabel.text = "\(stock.rank)"
-        compan
+        companyIconImageView.imag

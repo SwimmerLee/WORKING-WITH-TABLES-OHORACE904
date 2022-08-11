@@ -26,4 +26,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var diffLabel: UILabel!
     
     //데이터를 업데이트하는 매소드
-    func configure(_ stock: StockMode
+    func configure(_ stock: StockModel) {
+        rankLabel.tex

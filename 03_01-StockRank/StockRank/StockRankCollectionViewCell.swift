@@ -29,4 +29,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     func configure(_ stock: StockModel) {
         rankLabel.text = "\(stock.rank)"
         companyIconImageView.image = UIImage(named: stock.imageName)//stock의 imagename을 가져옴
-        compa
+        companyNameLabel.text = sto

@@ -30,4 +30,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         rankLabel.text = "\(stock.rank)"
         companyIconImageView.image = UIImage(named: stock.imageName)//stock의 imagename을 가져옴
         companyNameLabel.text = stock.name
-        //회사이름은 stock의
+        //회사이름은 stock의 name
+        companyPri

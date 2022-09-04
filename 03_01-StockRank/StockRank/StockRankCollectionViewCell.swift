@@ -34,4 +34,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         companyPriceLabel.text = "\(convertToCurrencyFormat(price: stock.price)) 원"
         //가격은 stock의 price
         
-       
+        //-값은 파란색으로 표시
+     

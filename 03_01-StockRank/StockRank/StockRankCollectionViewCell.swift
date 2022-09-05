@@ -35,4 +35,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         //가격은 stock의 price
         
         //-값은 파란색으로 표시
-     
+        let color: UIColor
+    

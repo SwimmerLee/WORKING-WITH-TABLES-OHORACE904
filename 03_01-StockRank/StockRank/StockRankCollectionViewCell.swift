@@ -37,4 +37,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         //-값은 파란색으로 표시
         let color: UIColor
         if stock.diff > 0 {
-     
+            color = UIC

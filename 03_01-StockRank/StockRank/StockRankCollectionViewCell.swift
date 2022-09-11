@@ -39,4 +39,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         if stock.diff > 0 {
             color = UIColor.systemRed
         }else{
-            color
+            color = UIColor.syste

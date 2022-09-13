@@ -41,4 +41,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         }else{
             color = UIColor.systemBlue
         }
-        diffLabel.textColor = c
+        diffLabel.textColor = color
+        dif

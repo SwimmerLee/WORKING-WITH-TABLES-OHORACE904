@@ -42,4 +42,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
             color = UIColor.systemBlue
         }
         diffLabel.textColor = color
-        dif
+        diffLabel.text = "\(stock.

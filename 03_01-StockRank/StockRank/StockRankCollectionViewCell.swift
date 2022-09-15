@@ -42,4 +42,7 @@ class StockRankCollectionViewCell: UICollectionViewCell {
             color = UIColor.systemBlue
         }
         diffLabel.textColor = color
-        diffLabel.text = "\(stock.
+        diffLabel.text = "\(stock.diff)%"
+    }
+     
+    //콤마

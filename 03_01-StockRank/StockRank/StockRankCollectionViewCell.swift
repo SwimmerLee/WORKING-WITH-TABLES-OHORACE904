@@ -47,3 +47,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
      
     //콤마 넣기
     func convertToCurrencyFormat(price: Int) -> String {
+        let numberFormat

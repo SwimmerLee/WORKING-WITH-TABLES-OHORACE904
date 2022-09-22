@@ -45,4 +45,5 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         diffLabel.text = "\(stock.diff)%"
     }
      
-    //콤마
+    //콤마 넣기
+    func convertToC

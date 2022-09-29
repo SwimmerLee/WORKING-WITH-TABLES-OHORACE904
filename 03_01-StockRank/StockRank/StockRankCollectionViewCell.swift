@@ -49,4 +49,4 @@ class StockRankCollectionViewCell: UICollectionViewCell {
     func convertToCurrencyFormat(price: Int) -> String {
         let numberFormatter = NumberFormatter()
         numberFormatter.numberStyle = .decimal
-        numberFormatter.
+        numberFormatter.maximumFractionDigits = 0

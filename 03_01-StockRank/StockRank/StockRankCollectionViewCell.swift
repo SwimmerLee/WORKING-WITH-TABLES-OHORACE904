@@ -51,4 +51,6 @@ class StockRankCollectionViewCell: UICollectionViewCell {
         numberFormatter.numberStyle = .decimal
         numberFormatter.maximumFractionDigits = 0
         let result = numberFormatter.string(from: NSNumber(value:price)) ?? ""
-  
+        return result
+    }
+   

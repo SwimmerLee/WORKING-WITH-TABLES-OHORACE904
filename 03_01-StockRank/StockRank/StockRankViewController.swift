@@ -19,3 +19,21 @@ class StockRankViewController: UIViewController, UICollectionViewDelegate {
     
     let stockList: [StockModel] = StockModel.list
     //StockModel의 데이터를 가져오겠다
+
+    @IBOutlet weak var collectionView: UICollectionView!
+        /**collection view 연결**/
+    
+    
+    //Presentaion - 셀을 어떻게 표현할건지?
+    //Layout - 셀을 어떻게 배치할건지?
+    
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+    //dataSouce와 delegate는 protocol
+        
+        collectionView.dataSource = self //dataSource -> 어떤 데이터 어떻게 표현할거야를 알려줌
+        collectionView.delegate = self //delegate -> 어떻게 배치할거야를 알려줌
+      
+    }

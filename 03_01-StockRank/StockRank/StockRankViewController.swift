@@ -37,3 +37,18 @@ class StockRankViewController: UIViewController, UICollectionViewDelegate {
         collectionView.delegate = self //delegate -> 어떻게 배치할거야를 알려줌
       
     }
+
+}
+
+//UICollectionView를 준수할거임(구현위한 매소드존재)
+extension StockRankViewController: UICollectionViewDataSource {
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return stockList.count
+        //item의 개수( data개수)
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell{
+        
+        //  <casting>
+//
+//        나는 남자 사람

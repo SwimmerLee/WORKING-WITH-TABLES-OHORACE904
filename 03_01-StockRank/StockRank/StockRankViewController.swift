@@ -52,3 +52,21 @@ extension StockRankViewController: UICollectionViewDataSource {
         //  <casting>
 //
 //        나는 남자 사람
+//        남자인데 사람을 상속받음 (남자 : 사람)
+//        let joon = Namja()
+//        let joon = Saram()
+//        guard let nam = joon as? Namja else {
+//            통지서 안받음
+//            return
+//        }
+//        send 군대가자
+//        //준이 남자인가? 남자아니면 통지서 안받 남자면 군대가자
+//
+         
+        
+//재사용가능한 셀 가져오겠다
+        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "StockRankCollectionViewCell", for: indexPath) as? StockRankCollectionViewCell else {
+            return UICollectionViewCell()
+        }
+        let stock = stockList[indexPath.item]
+        cell.configure(stock)

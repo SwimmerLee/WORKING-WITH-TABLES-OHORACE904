@@ -70,3 +70,19 @@ extension StockRankViewController: UICollectionViewDataSource {
         }
         let stock = stockList[indexPath.item]
         cell.configure(stock)
+        return cell
+        
+       // return UICollectionViewCell()
+    
+    }
+}
+
+//셀들을 어떻게 배치할것인가에 대한 코드
+extension StockRankViewController: UICollectionViewDelegateFlowLayout {
+    func collectionView(_ collectionview: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
+//        width == collectionview
+//        height == 80
+        
+        return CGSize(width: collectionview.bounds.width, height:80)
+    }
+}

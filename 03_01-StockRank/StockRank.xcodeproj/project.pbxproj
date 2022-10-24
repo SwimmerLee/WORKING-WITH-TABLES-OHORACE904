@@ -17,3 +17,22 @@
 		94480103280EE8EE00D7E44C /* StockRankUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94480102280EE8EE00D7E44C /* StockRankUITests.swift */; };
 		94480105280EE8EE00D7E44C /* StockRankUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94480104280EE8EE00D7E44C /* StockRankUITestsLaunchTests.swift */; };
 		94480116280EF1E800D7E44C /* StockModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94480115280EF1E800D7E44C /* StockModel.swift */; };
+		F88489FE28AAA1C6002363BA /* StockRankViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88489FD28AAA1C6002363BA /* StockRankViewController.swift */; };
+		F8848A0028AC079B002363BA /* StockRankCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88489FF28AC079B002363BA /* StockRankCollectionViewCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		944800F5280EE8EE00D7E44C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 944800D6280EE8ED00D7E44C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 944800DD280EE8ED00D7E44C;
+			remoteInfo = StockRank;
+		};
+		944800FF280EE8EE00D7E44C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 944800D6280EE8ED00D7E44C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 944800DD280EE8ED00D7E44C;
+			remoteInfo = StockRank;
+		};

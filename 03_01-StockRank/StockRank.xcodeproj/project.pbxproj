@@ -67,3 +67,23 @@
 		944800F1280EE8EE00D7E44C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		944800FB280EE8EE00D7E44C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		944800D5280EE8ED00D7E44C = {
+			isa = PBXGroup;
+			children = (
+				944800E0280EE8ED00D7E44C /* StockRank */,
+				944800F7280EE8EE00D7E44C /* StockRankTests */,
+				94480101280EE8EE00D7E44C /* StockRankUITests */,

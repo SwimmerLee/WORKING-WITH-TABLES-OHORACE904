@@ -87,3 +87,14 @@
 				944800E0280EE8ED00D7E44C /* StockRank */,
 				944800F7280EE8EE00D7E44C /* StockRankTests */,
 				94480101280EE8EE00D7E44C /* StockRankUITests */,
+				944800DF280EE8ED00D7E44C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		944800DF280EE8ED00D7E44C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				944800DE280EE8ED00D7E44C /* StockRank.app */,
+				944800F4280EE8EE00D7E44C /* StockRankTests.xctest */,
+				944800FE280EE8EE00D7E44C /* StockRankUITests.xctest */,
+			);

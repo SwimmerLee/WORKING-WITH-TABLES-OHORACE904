@@ -127,3 +127,22 @@
 		};
 		94480101280EE8EE00D7E44C /* StockRankUITests */ = {
 			isa = PBXGroup;
+			children = (
+				94480102280EE8EE00D7E44C /* StockRankUITests.swift */,
+				94480104280EE8EE00D7E44C /* StockRankUITestsLaunchTests.swift */,
+			);
+			path = StockRankUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		944800DD280EE8ED00D7E44C /* StockRank */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94480108280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRank" */;
+			buildPhases = (
+				944800DA280EE8ED00D7E44C /* Sources */,
+				944800DB280EE8ED00D7E44C /* Frameworks */,
+				944800DC280EE8ED00D7E44C /* Resources */,
+			);
+			buildRules = (

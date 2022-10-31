@@ -179,3 +179,35 @@
 				944800FA280EE8EE00D7E44C /* Sources */,
 				944800FB280EE8EE00D7E44C /* Frameworks */,
 				944800FC280EE8EE00D7E44C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				94480100280EE8EE00D7E44C /* PBXTargetDependency */,
+			);
+			name = StockRankUITests;
+			productName = StockRankUITests;
+			productReference = 944800FE280EE8EE00D7E44C /* StockRankUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		944800D6280EE8ED00D7E44C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					944800DD280EE8ED00D7E44C = {
+						CreatedOnToolsVersion = 13.3;
+					};
+					944800F3280EE8EE00D7E44C = {
+						CreatedOnToolsVersion = 13.3;
+						TestTargetID = 944800DD280EE8ED00D7E44C;
+					};
+					944800FD280EE8EE00D7E44C = {
+						CreatedOnToolsVersion = 13.3;
+						TestTargetID = 944800DD280EE8ED00D7E44C;
+					};

@@ -158,3 +158,24 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9448010B280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRankTests" */;
 			buildPhases = (
+				944800F0280EE8EE00D7E44C /* Sources */,
+				944800F1280EE8EE00D7E44C /* Frameworks */,
+				944800F2280EE8EE00D7E44C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				944800F6280EE8EE00D7E44C /* PBXTargetDependency */,
+			);
+			name = StockRankTests;
+			productName = StockRankTests;
+			productReference = 944800F4280EE8EE00D7E44C /* StockRankTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		944800FD280EE8EE00D7E44C /* StockRankUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9448010E280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRankUITests" */;
+			buildPhases = (
+				944800FA280EE8EE00D7E44C /* Sources */,
+				944800FB280EE8EE00D7E44C /* Frameworks */,
+				944800FC280EE8EE00D7E44C /* Resources */,

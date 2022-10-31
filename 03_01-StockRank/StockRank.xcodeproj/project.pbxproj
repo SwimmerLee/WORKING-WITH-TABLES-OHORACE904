@@ -146,3 +146,15 @@
 				944800DC280EE8ED00D7E44C /* Resources */,
 			);
 			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StockRank;
+			productName = StockRank;
+			productReference = 944800DE280EE8ED00D7E44C /* StockRank.app */;
+			productType = "com.apple.product-type.application";
+		};
+		944800F3280EE8EE00D7E44C /* StockRankTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9448010B280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRankTests" */;
+			buildPhases = (

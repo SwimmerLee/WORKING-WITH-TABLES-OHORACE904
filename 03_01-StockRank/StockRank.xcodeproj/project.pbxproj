@@ -211,3 +211,19 @@
 						CreatedOnToolsVersion = 13.3;
 						TestTargetID = 944800DD280EE8ED00D7E44C;
 					};
+				};
+			};
+			buildConfigurationList = 944800D9280EE8ED00D7E44C /* Build configuration list for PBXProject "StockRank" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 944800D5280EE8ED00D7E44C;
+			productRefGroup = 944800DF280EE8ED00D7E44C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				944800DD280EE8ED00D7E44C /* StockRank */,

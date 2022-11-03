@@ -227,3 +227,23 @@
 			projectRoot = "";
 			targets = (
 				944800DD280EE8ED00D7E44C /* StockRank */,
+				944800F3280EE8EE00D7E44C /* StockRankTests */,
+				944800FD280EE8EE00D7E44C /* StockRankUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		944800DC280EE8ED00D7E44C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				944800EE280EE8EE00D7E44C /* LaunchScreen.storyboard in Resources */,
+				944800EB280EE8EE00D7E44C /* Assets.xcassets in Resources */,
+				944800E9280EE8ED00D7E44C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		944800F2280EE8EE00D7E44C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;

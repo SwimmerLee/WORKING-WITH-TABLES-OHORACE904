@@ -311,3 +311,15 @@
 			children = (
 				944800E8280EE8ED00D7E44C /* Base */,
 			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		944800EC280EE8EE00D7E44C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				944800ED280EE8EE00D7E44C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */

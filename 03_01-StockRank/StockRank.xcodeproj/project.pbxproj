@@ -291,3 +291,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		944800F6280EE8EE00D7E44C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 944800DD280EE8ED00D7E44C /* StockRank */;
+			targetProxy = 944800F5280EE8EE00D7E44C /* PBXContainerItemProxy */;
+		};
+		94480100280EE8EE00D7E44C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 944800DD280EE8ED00D7E44C /* StockRank */;
+			targetProxy = 944800FF280EE8EE00D7E44C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		944800E7280EE8ED00D7E44C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				944800E8280EE8ED00D7E44C /* Base */,
+			);

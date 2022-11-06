@@ -247,3 +247,25 @@
 		944800F2280EE8EE00D7E44C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		944800FC280EE8EE00D7E44C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		944800DA280EE8ED00D7E44C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				944800E2280EE8ED00D7E44C /* AppDelegate.swift in Sources */,
+				94480116280EF1E800D7E44C /* StockModel.swift in Sources */,
+				F8848A0028AC079B002363BA /* StockRankCollectionViewCell.swift in Sources */,
+				944800E4280EE8ED00D7E44C /* SceneDelegate.swift in Sources */,

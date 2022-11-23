@@ -581,3 +581,18 @@
 				94480107280EE8EE00D7E44C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94480108280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRank" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94480109280EE8EE00D7E44C /* Debug */,
+				9448010A280EE8EE00D7E44C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9448010B280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRankTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9448010C280EE8EE00D7E44C /* Debug */,

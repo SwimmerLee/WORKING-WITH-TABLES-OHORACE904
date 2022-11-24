@@ -596,3 +596,21 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9448010C280EE8EE00D7E44C /* Debug */,
+				9448010D280EE8EE00D7E44C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9448010E280EE8EE00D7E44C /* Build configuration list for PBXNativeTarget "StockRankUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9448010F280EE8EE00D7E44C /* Debug */,
+				94480110280EE8EE00D7E44C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 944800D6280EE8ED00D7E44C /* Project object */;
+}

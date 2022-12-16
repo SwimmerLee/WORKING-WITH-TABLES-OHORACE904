@@ -1,2 +1,3 @@
 //
-//  StockRankUITests.swif
+//  StockRankUITests.swift
+//  StockRankUITes

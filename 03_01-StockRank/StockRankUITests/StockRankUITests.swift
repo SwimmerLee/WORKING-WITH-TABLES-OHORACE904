@@ -7,4 +7,6 @@
 
 import XCTest
 
-class StockRan
+class StockRankUITests: XCTestCase {
+
+   

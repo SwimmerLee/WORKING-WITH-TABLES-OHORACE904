@@ -9,4 +9,4 @@ import XCTest
 
 class StockRankUITests: XCTestCase {
 
-   
+    override func set

@@ -9,4 +9,5 @@ import XCTest
 
 class StockRankUITests: XCTestCase {
 
-    override func setUpWithError() throw
+    override func setUpWithError() throws {
+        // P

@@ -10,4 +10,4 @@ import XCTest
 class StockRankUITests: XCTestCase {
 
     override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation 
+        // Put setup code here. This method is called before the invocation of each test metho

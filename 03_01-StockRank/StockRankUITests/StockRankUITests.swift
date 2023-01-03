@@ -15,4 +15,4 @@ class StockRankUITests: XCTestCase {
         // In UI tests it is usually best to stop immediately when a failure occurs.
         continueAfterFailure = false
 
-        // I
+        // In UI tests it’s imp

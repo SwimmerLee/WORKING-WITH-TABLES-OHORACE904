@@ -19,4 +19,4 @@ class StockRankUITests: XCTestCase {
     }
 
     override func tearDownWithError() throws {
-        // Put teardown code here. 
+        // Put teardown code here. This method is c

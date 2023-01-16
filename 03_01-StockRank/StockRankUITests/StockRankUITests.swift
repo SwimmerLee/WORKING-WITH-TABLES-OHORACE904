@@ -19,4 +19,4 @@ class StockRankUITests: XCTestCase {
     }
 
     override func tearDownWithError() throws {
-        // Put teardown code here. This method is called after the invo
+        // Put teardown code here. This method is called after the invocation of each te

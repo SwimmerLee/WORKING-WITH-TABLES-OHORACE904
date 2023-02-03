@@ -24,4 +24,4 @@ class StockRankUITests: XCTestCase {
 
     func testExample() throws {
         // UI tests must launch the application that they test.
-     
+        let app = XCUIApplica

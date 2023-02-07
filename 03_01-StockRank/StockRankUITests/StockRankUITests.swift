@@ -27,4 +27,4 @@ class StockRankUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Use XCTAssert and related functions to 
+        // Use XCTAssert and related functions to verify your tests produ

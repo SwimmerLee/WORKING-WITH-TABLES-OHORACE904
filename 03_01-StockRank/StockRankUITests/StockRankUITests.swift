@@ -30,4 +30,5 @@ class StockRankUITests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
 
-    func testLaunchPerformance
+    func testLaunchPerformance() throws {
+        if

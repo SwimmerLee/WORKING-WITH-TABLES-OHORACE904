@@ -31,4 +31,4 @@ class StockRankUITests: XCTestCase {
     }
 
     func testLaunchPerformance() throws {
-        if #available(macOS 
+        if #available(macOS 10.15, iOS 13.0, tvO

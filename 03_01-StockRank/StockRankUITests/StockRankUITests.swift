@@ -32,4 +32,4 @@ class StockRankUITests: XCTestCase {
 
     func testLaunchPerformance() throws {
         if #available(macOS 10.15, iOS 13.0, tvOS 13.0, watchOS 7.0, *) {
-            // This me
+            // This measures how long it t

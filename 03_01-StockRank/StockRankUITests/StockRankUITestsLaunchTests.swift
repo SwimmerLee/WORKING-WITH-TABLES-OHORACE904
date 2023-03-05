@@ -1,2 +1,3 @@
 //
-//  StockRankUITest
+//  StockRankUITestsLaunchTests.swift
+/

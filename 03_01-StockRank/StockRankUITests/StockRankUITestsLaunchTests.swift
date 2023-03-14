@@ -7,4 +7,4 @@
 
 import XCTest
 
-class StockRankUITestsLaun
+class StockRankUITestsLaunchTests: XCTestC

@@ -7,4 +7,6 @@
 
 import XCTest
 
-class StockRankUITestsLaunchTests: XCTestC
+class StockRankUITestsLaunchTests: XCTestCase {
+
+    override 

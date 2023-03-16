@@ -9,4 +9,4 @@ import XCTest
 
 class StockRankUITestsLaunchTests: XCTestCase {
 
-    override class var runsForEachTargetApplica
+    override class var runsForEachTargetApplicationUIConfiguration: 

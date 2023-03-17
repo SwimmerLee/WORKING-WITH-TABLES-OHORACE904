@@ -9,4 +9,5 @@ import XCTest
 
 class StockRankUITestsLaunchTests: XCTestCase {
 
-    override class var runsForEachTargetApplicationUIConfiguration: 
+    override class var runsForEachTargetApplicationUIConfiguration: Bool {
+        true

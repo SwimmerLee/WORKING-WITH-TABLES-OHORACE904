@@ -11,3 +11,6 @@ class StockRankUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
+    }
+
+    override fu

@@ -13,4 +13,4 @@ class StockRankUITestsLaunchTests: XCTestCase {
         true
     }
 
-    override fu
+    override func setUpWithError() t

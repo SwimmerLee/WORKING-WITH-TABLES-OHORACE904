@@ -14,4 +14,7 @@ class StockRankUITestsLaunchTests: XCTestCase {
     }
 
     override func setUpWithError() throws {
-        continueAfterFailure 
+        continueAfterFailure = false
+    }
+
+   

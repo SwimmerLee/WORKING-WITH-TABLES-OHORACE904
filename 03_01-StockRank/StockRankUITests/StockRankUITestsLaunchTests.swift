@@ -17,4 +17,4 @@ class StockRankUITestsLaunchTests: XCTestCase {
         continueAfterFailure = false
     }
 
-   
+    func testLaunch() throws

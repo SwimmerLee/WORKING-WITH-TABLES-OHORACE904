@@ -18,4 +18,5 @@ class StockRankUITestsLaunchTests: XCTestCase {
     }
 
     func testLaunch() throws {
-        let app = XCUIApp
+        let app = XCUIApplication()
+        app

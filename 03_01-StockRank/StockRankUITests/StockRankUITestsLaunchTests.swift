@@ -21,4 +21,4 @@ class StockRankUITestsLaunchTests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Insert steps here to perform after app launc
+        // Insert steps here to perform after app launch but before taking a s

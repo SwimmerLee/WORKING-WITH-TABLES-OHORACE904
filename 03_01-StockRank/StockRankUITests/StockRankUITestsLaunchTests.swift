@@ -21,4 +21,4 @@ class StockRankUITestsLaunchTests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Insert steps he
+        // Insert steps here to perform

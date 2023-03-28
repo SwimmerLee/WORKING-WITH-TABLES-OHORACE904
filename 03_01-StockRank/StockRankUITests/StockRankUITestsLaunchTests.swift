@@ -22,4 +22,4 @@ class StockRankUITestsLaunchTests: XCTestCase {
         app.launch()
 
         // Insert steps here to perform after app launch but before taking a screenshot,
-        // su
+        // such as logging int

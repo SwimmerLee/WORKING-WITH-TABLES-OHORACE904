@@ -26,4 +26,5 @@ class StockRankUITestsLaunchTests: XCTestCase {
 
         let attachment = XCTAttachment(screenshot: app.screenshot())
         attachment.name = "Launch Screen"
-        attachment.
+        attachment.lifetime = .keepAlways
+        add
